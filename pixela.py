@@ -31,7 +31,7 @@ def create_new_graph():
     # create a graph
     graph_params = {
         "id": GRAPH_ID,
-        "name": "Python Daily Learning",
+        "name": "Coding Daily Learning",
         "unit": "min",
         "type": "float",
         "color": "ajisai",
